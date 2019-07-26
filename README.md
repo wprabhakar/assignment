@@ -8,7 +8,7 @@ Purpose of this assignment is to assess the ability of the Developer to
 - write test cases
 
 
-# Backend - ( Node JS )
+#### Backend - ( Node JS )
 Use the below framework to develop API interface
 - https://medium.com/@phcollignon/node-rest-api-jwt-in-typescript-e6a8ae5cd8f8
 
@@ -22,7 +22,7 @@ Write a SQL file to create table structure ( as defined in the above API )
 Write Test cases for API ( any framework is fine - eg framework is given below )
 - Ref: https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai
 
-# Frontend - ( Angular ) 
+#### Frontend - ( Angular ) 
 https://dev.to/ronakpatel70/creating-pwa-using-angular-7-step-by-step-guide-1mb3
 
 Nav Bar will contain the following
@@ -31,14 +31,12 @@ Nav Bar will contain the following
 - Products ( Shown only if the user is logged in ) 
 - Logout ( Shown only if the user is logged in )
 
-Home ( Static Information )
-Get the list of Products from backend and display it in a table.
-
-Screen layout something like - https://www.codeproject.com/KB/scripting/1248738/product-list-1.png
+Home Page (  layout something like ) https://www.codeproject.com/KB/scripting/1248738/product-list-1.png
   - Ignore Search Products in the above Screen Layout
-  - List of Products will shown using JSON Schema Form
-  - Clicking on the Product will show a screen to update the product using JSON Schema Form
-  - Clicking on Add Product functionality again use JSON Schema Form to capture production information
+  - List of Products from backend and display it in a table
+  - ( If logged in ) Clicking on the Product will show a screen to update the product using JSON Schema Form 
+  - ( If logged in ) Clicking on Add Product functionality again use JSON Schema Form to capture product information and will make an API call to save the product.
+  - ( If logged in ) allow multiple product selection to delete.
 
 Login will contain 2 Tabs ( eg. https://bootsnipp.com/snippets/M0a ) 
 - use JSON Schema Form ( https://www.npmjs.com/package/angular6-json-schema-form ) to render UI
