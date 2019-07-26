@@ -44,4 +44,4 @@ Login will contain 2 Tabs ( eg. https://bootsnipp.com/snippets/M0a )
 Login & Register will have 2 fields user name & password
 - Successful registration will also login the user and redirect to the home page
 
-Logout will logout the user.
+Logout will logout the user and will return to the Home Page.
