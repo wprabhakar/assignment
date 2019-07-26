@@ -7,6 +7,7 @@
 - Docker
 - TDD
 - SASS
+- Git
 
 #### Purpose of this assignment is to assess the ability of the Developer to
 - develop Front End using Angular
@@ -57,10 +58,11 @@ Logout will logout the user and will return to the Home Page.
 Write test cases for Home page - when logged in and when not logged in.
 
 #### Deliverables
-- Upload all codes in Github and share the link.
-- One Repository for Backend and one for Frontend
 - Create Installation Instructions ( assume Angular, Node JS are installed )
 - Provide steps to run the test cases ( API & UI )
+- Create One Github Repository for Backend and one for Frontend
+- upload & commit the code in Github ( master branch )
+- share github links
 
 #### Duration
 - 7 days to complete.
