@@ -6,6 +6,7 @@
 - MySQL
 - Docker
 - TDD
+- SASS
 
 #### Purpose of this assignment is to assess the ability of the Developer to
 - develop Front End using Angular
