@@ -1,6 +1,13 @@
 ### Assignment - Full Stack Developer
 
-Purpose of this assignment is to assess the ability of the Developer to
+#### Skills Required to complete this assignment
+- NodeJS
+- Angular
+- MySQL
+- Docker
+- TDD
+
+#### Purpose of this assignment is to assess the ability of the Developer to
 - develop Front End using Angular
 - develop Backend using NodeJS
 - quickly learn and use different frameworks.
@@ -45,3 +52,15 @@ Login & Register will have 2 fields user name & password
 - Successful registration will also login the user and redirect to the home page
 
 Logout will logout the user and will return to the Home Page.
+
+Write test cases for Home page - when logged in and when not logged in.
+
+#### Deliverables
+Upload all codes in Github and share the link.
+One Repository for Backend and one for Frontend
+Create Installation Instructions ( assume Angular, Node JS are installed )
+Provide steps to run the test cases ( API & UI )
+
+#### Duration
+This assignment can be submitted within 7 days.
+
