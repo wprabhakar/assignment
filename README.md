@@ -33,6 +33,7 @@ Write Test cases for API ( any framework is fine - eg framework is given below )
 
 #### Frontend - ( Angular ) 
 https://dev.to/ronakpatel70/creating-pwa-using-angular-7-step-by-step-guide-1mb3
+https://jasonwatmore.com/post/2018/11/22/angular-7-role-based-authorization-tutorial-with-example
 
 Nav Bar will contain the following
 - Home   ( Public Access - Defualt Landing Page )
